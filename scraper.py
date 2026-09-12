@@ -59,7 +59,9 @@ def assamese_entries(content):
 
 
 def write(path, content):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    directory = os.path.dirname(path)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="\n") as handle:
         handle.write(content)
 
