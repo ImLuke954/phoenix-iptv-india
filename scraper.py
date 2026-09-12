@@ -76,7 +76,8 @@ def clean_old_files():
 
 
 def generate_site(category_names):
-    links = [(name.capitalize(), f"{USER_REPO_URL}india/categories/{name}.m3u") for name in category_names]
+    links = [("India - All Channels", f"{USER_REPO_URL}india/index.m3u")]
+    links += [(name.capitalize(), f"{USER_REPO_URL}india/categories/{name}.m3u") for name in category_names]
     links.append(("Assames", f"{USER_REPO_URL}india/assames.m3u"))
     readme = "# 📺 India IPTV Playlist Hub\n\nIndia-only IPTV playlists, updated hourly from [iptv-org/iptv](https://github.com/iptv-org/iptv).\n\n"
     readme += f"## Playlist URL\n{USER_REPO_URL}\n\n| Category | M3U Link |\n| --- | --- |\n"
@@ -113,7 +114,14 @@ def scrape():
     print("Downloading Assamese playlist...")
     header, entries = assamese_entries(fetch(f"{BASE_URL}languages/asm.m3u"))
     write("india/assames.m3u", render(header, entries))
-    write("india/index.m3u", render(["#EXTM3U"], all_entries))
+    combined = []
+    seen_urls = set()
+    for entry in all_entries + entries:
+        stream_url = entry[-1]
+        if stream_url not in seen_urls:
+            seen_urls.add(stream_url)
+            combined.append(entry)
+    write("india/index.m3u", render(["#EXTM3U"], combined))
     generate_site(names)
     print(f"India-only scrape completed: {len(names)} categories.")
 
