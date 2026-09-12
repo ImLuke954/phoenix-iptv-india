@@ -116,11 +116,14 @@ def scrape():
     write("india/assames.m3u", render(header, entries))
     combined = []
     seen_urls = set()
-    for entry in all_entries + entries:
+    for entry in all_entries:
         stream_url = entry[-1]
         if stream_url not in seen_urls:
             seen_urls.add(stream_url)
             combined.append(entry)
+    # Keep Assamese entries even when the same stream is already present in
+    # another category, so IPTV players can display the Assames group.
+    combined.extend(entries)
     write("india/index.m3u", render(["#EXTM3U"], combined))
     generate_site(names)
     print(f"India-only scrape completed: {len(names)} categories.")
