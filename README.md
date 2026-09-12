@@ -7,6 +7,7 @@ https://imluke954.github.io/phoenix-iptv-india/
 
 | Category | M3U Link |
 | --- | --- |
+| India - All Channels | [`https://imluke954.github.io/phoenix-iptv-india/india/index.m3u`](https://imluke954.github.io/phoenix-iptv-india/india/index.m3u) |
 | Animation | [`https://imluke954.github.io/phoenix-iptv-india/india/categories/animation.m3u`](https://imluke954.github.io/phoenix-iptv-india/india/categories/animation.m3u) |
 | Auto | [`https://imluke954.github.io/phoenix-iptv-india/india/categories/auto.m3u`](https://imluke954.github.io/phoenix-iptv-india/india/categories/auto.m3u) |
 | Business | [`https://imluke954.github.io/phoenix-iptv-india/india/categories/business.m3u`](https://imluke954.github.io/phoenix-iptv-india/india/categories/business.m3u) |
