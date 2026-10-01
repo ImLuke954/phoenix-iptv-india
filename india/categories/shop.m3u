@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PropexTV.in@SD" tvg-logo="https://i.ibb.co/fYTXkfL/unnamed.png" group-title="Shop",Propex TV (576p)
+http://51.75.127.199:3141/propextv/index.m3u8
