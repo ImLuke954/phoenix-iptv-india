@@ -67,6 +67,8 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat Digital (1080p)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 tvg-id="EpicParivar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540" group-title="Entertainment",Epic Parivar (576p)
+http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="Entertainment",Epic TV Digital (1080p)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" group-title="Entertainment",ETV Josh (1080p)
@@ -172,18 +174,24 @@ https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Entertainment",Sony Aath (1080p)
 https://cloudplay-sonyliv.pages.dev/aath.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television (576p)
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Marathi (1080p)
 https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Pal (1080p)
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (576p)
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="Entertainment",Spondon (1080p)
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha (576p)
-http://51.75.127.199:3141/starjalsha/index.m3u8
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="StarKiran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Star Kiran (576p)
+http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMaa.in@SD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa (576p)
 http://51.75.127.199:3141/starmaa/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="Entertainment",Star Maa HD (720p)
@@ -210,6 +218,8 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Entertainment",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" group-title="Entertainment",Sun TV HD (1080p)
+http://103.151.60.162:2122/play/a02a/index.m3u8?hls
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="Entertainment",Suriya TV (1080p)
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Tarang TV (720p)
@@ -230,6 +240,8 @@ https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-id="YETTV.in@HD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" group-title="Entertainment",YET TV (720p)
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla (576p)
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla HD (1080p)
 http://51.75.127.199:3141/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Entertainment",Zee Bangla Sonar (576p)
