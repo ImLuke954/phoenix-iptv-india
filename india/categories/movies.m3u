@@ -112,8 +112,6 @@ http://103.185.24.134:3001/Star-Gold/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
 http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Movies",Suriyan TV (576p)

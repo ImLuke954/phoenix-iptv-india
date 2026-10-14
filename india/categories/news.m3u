@@ -87,6 +87,8 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="CnewsBharat.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/C_News_Bharat.png" group-title="News",Cnews Bharat (720p)
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" group-title="News",CNN News 18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" group-title="News",CTVN AKD Plus (1080p)
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" group-title="News",CVR English (720p)
