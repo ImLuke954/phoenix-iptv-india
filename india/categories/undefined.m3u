@@ -11,7 +11,7 @@ https://cdn.pishow.tv/ott/live/10008/master.m3u8
 https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" group-title="Undefined",Prarthana Bhawan TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
-#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="Undefined",Prarthana TV (720p)
+#EXTINF:-1 tvg-id="PrarthanaLife.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png" group-title="Undefined",Prarthana Life (720p)
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Undefined",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
