@@ -11,7 +11,8 @@ https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="Documentary",Investigation Discovery (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="Documentary",Safari TV (576p)
-https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Documentary",Safari TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth HD (1080p)
 http://103.185.24.134:3001/SONY-BBC/index.m3u8

@@ -16,7 +16,7 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AndyHaryana.in@SD" tvg-logo="https://i.imgur.com/rmCBD3e.png" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://i.imgur.com/hytapio.png" group-title="Music",B4U Music (1080p)
-https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle (1080p)
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle HD (720p)
@@ -32,7 +32,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" group-title="Music",Dhoom Music (720p)
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music (576p)
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+http://66.102.126.10:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music Digital (1080p)
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png" group-title="Music",ETV Beats (1080p)
@@ -42,7 +42,7 @@ https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music",Hindi Hits (720p)
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="Music",Insync (576p)
-https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Music",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Music",Kalika TV (576p)
@@ -51,8 +51,9 @@ http://server.applelive.in/kalikatv/kalikatv.m3u8
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" group-title="Music",Mh 1 Music (720p)
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India (576p)
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Music India (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/158/master.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in@HD" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" group-title="Music",NH BollyRaga (1080p)
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD" tvg-logo="https://i.imgur.com/wjSaHj5.png" group-title="Music",Orange Bangla TV (720p)
@@ -65,12 +66,13 @@ https://cdn.pishow.tv/ott/live/1383/master.m3u8
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="Music",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" group-title="Music",Public Music (576p)
-https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Public Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/240/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" group-title="Music",Punjabi Beats HD (720p)
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" group-title="Music",Punjabi Hits (1080p)
-https://stream.ottlive.co.in/punjabihits/index.m3u8
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Punjabi_Music_HD.png" group-title="Music",Punjabi Music HD (720p)
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD" tvg-logo="https://i.imgur.com/z7fhhyX.png" group-title="Music",Raj Musix Kannada (576p)
@@ -85,8 +87,9 @@ https://cdn.pishow.tv/ott/live/1213/master.m3u8
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" group-title="Music",Sangeet Bhojpuri (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Sangeet Bhojpuri (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/349/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png" group-title="Music",Sangeet Marathi (720p)
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Movies;Music",Shemaroo Filmi Gaane (1080p)
@@ -96,7 +99,7 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png" group-title="Music",Tabbar Hits (1080p)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://i.imgur.com/oSm8zFD.png" group-title="Music",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Music",Tunes 6 (720p)

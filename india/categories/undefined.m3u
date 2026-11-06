@@ -11,8 +11,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
 https://cdn.pishow.tv/ott/live/10008/master.m3u8
 #EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" group-title="Undefined",HSTV (720p)
 https://live.castmaxcloud.com/live/hstv.m3u8
-#EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" group-title="Undefined",Prarthana Bhawan TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
+#EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Prarthana Bhawan TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/623/master.m3u8
 #EXTINF:-1 tvg-id="PrarthanaLife.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png" group-title="Undefined",Prarthana Life (720p)
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Undefined",Pravasi Channel (1080p)
@@ -23,26 +24,29 @@ https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in@SD" tvg-logo="https://i.imgur.com/dpI7XPC.png" group-title="Undefined",R Plus Gold (720p)
 https://cdn.pishow.tv/ott/live/1231/master.m3u8
-#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" group-title="Undefined",Raftaar Media (576p)
-https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Raftaar Media (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/306/master.m3u8
 #EXTINF:-1 tvg-id="Ramdhenu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="Undefined",Ramdhenu (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-id="Rang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RANG/images/LOGO_HD/image.png" group-title="Undefined",Rang (576p)
 https://cdn.pishow.tv/ott/live/10017/master.m3u8
-#EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" group-title="Undefined",Rengoni (576p)
-https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Rengoni (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/709/master.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Undefined",Rongeen TV (720p)
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png" group-title="Undefined",Saam TV (576p)
-https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Saam TV (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/650/master.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png" group-title="Undefined",Sai TV (576p)
-https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
+https://cdn.pishow.tv/ott/live/1235/master.m3u8
 #EXTINF:-1 tvg-id="SantvaniChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="Undefined",Santvani Channel (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
 #EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM/images/LOGO_HD/image.png" group-title="Undefined",Sarv Dharm Sangam (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
 #EXTINF:-1 tvg-id="SharnamTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/SarnamTV.png" group-title="Undefined",Sharnam TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png" group-title="Undefined",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="Undefined",Shemaroo Marathi Bana (720p)
@@ -69,4 +73,4 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-id="VTU.in@SD" tvg-logo="https://i.imgur.com/zMwZRGJ.png" group-title="Undefined",VTU (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Undefined",Win TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
+https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8

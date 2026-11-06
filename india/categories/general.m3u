@@ -7,19 +7,17 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="General",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Arun Prabha (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/203/master.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" group-title="General",DD Arun Prabha (576p)
+https://cdn.pishow.tv/ott/live/32/master.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Assam (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/672/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Bangla (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/197/master.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="General",DD Bangla (576p)
+https://cdn.pishow.tv/ott/live/37/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-logo="https://i.imgur.com/C7KQiZI.png" group-title="General",DD Bihar (720p)
 https://cdn.pishow.tv/ott/live/35/master.m3u8
-#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="General",DD Chandana (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="General",DD Chandana (576p)
+https://cdn.pishow.tv/ott/live/28/master.m3u8
 #EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="General",DD Chhattisgarh (720p)
 https://cdn.pishow.tv/ott/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Girnar (576p)
@@ -34,14 +32,13 @@ https://fta.ektv.in/live/580/master.m3u8
 #EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Himachal Pradesh (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/575/master.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="General",DD India (1080p)
-https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
-#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Jharkhand (576p)
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD India (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/573/master.m3u8
-#EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KASHIR/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Kashir (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/248/master.m3u8
+https://fta.ektv.in/live/119/119_0.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" group-title="General",DD Jharkhand (576p)
+https://cdn.pishow.tv/ott/live/1617/master.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KASHIR/images/LOGO_HD/image.png" group-title="General",DD Kashir (576p)
+https://cdn.pishow.tv/ott/live/16/master.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" group-title="General",DD Madhya Pradesh (720p)
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Manipur (576p)
@@ -52,15 +49,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/in
 #EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-logo="https://i.imgur.com/HUL4aF6.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Nagaland (576p)
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/670/master.m3u8
-#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" group-title="General",DD Odia (576p)
-https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Odia (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/384/master.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" group-title="General",DD Rajasthan (720p)
 https://cdn.pishow.tv/ott/live/34/master.m3u8
 #EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Sahyadri (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/187/master.m3u8
-#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png" group-title="General",DD Saptagiri (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png" group-title="General",DD Saptagiri (576p)
+https://cdn.pishow.tv/ott/live/22/master.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",DD Tamil (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/679/master.m3u8
@@ -97,13 +95,13 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="General",Makkal TV (576i)
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="General",MBC TV (576p)
-https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
 #EXTINF:-1 tvg-id="MeiAlaiTV.in@SD" tvg-logo="https://www.meialai.com/assets/meialai-DBaBUZTH.png" group-title="General",Mei Alai TV (576p)
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="General",Metro TV (India) (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in@SD" tvg-logo="" group-title="General",Mh 1 Prime (576p)
-https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
 #EXTINF:-1 tvg-id="MHOne.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",MH One (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/353/master.m3u8
@@ -111,8 +109,9 @@ https://fta.ektv.in/live/353/master.m3u8
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="General",Network 10 (720p)
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
-#EXTINF:-1 tvg-id="News11.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11.png" group-title="General",News 11 (576p)
-https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="News11.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",News 11 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/307/master.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" group-title="General",NKR TV Kannada (1080p)
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="General",Starnet (480p)

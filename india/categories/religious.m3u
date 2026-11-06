@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Religious",Aadinath TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+https://cdn.pishow.tv/ott/live/252/master.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Religious",Aaseervatham TV (576p)
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha (576p)
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/338/master.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha (576p)
+https://cdn.pishow.tv/ott/live/1454/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@HD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha HD (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/339/master.m3u8
-#EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Religious",Aastha Gujarati (576p)
-https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
-#EXTINF:-1 tvg-id="AasthaKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="Religious",Aastha Kannada (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Gujarati (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/372/master.m3u8
+#EXTINF:-1 tvg-id="AasthaKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="Religious",Aastha Kannada (576p)
+https://cdn.pishow.tv/ott/live/234/master.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in@SD" tvg-logo="https://i.imgur.com/LyWSMJS.png" group-title="Religious",Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 #EXTINF:-1 tvg-id="AasthaTamil.in@SD" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Religious",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="Religious",Aastha Telugu (576p)
-https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
+https://cdn.pishow.tv/ott/live/262/master.m3u8
 #EXTINF:-1 tvg-id="AdhyatmTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Religious",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 #EXTINF:-1 tvg-id="AmritGurbani.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Amritgurbani.png" group-title="Religious",Amrit Gurbani (720p)
@@ -66,7 +66,7 @@ https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Religious",Awakening TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BhagyamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="Religious",Bhagyam TV (1080p)
 https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="BhakthiSiri.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png" group-title="Religious",Bhakthi Siri (576p)
@@ -85,8 +85,9 @@ https://cdn.pishow.tv/ott/live/229/master.m3u8
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" group-title="Religious",Chintpurni Live (720p)
 https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Religious",CVR OM Spiritual (576p)
-https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",CVR OM Spiritual (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/705/master.m3u8
 #EXTINF:-1 tvg-id="Darshan24.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Religious",Darshan 24 (576p)
 https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
 #EXTINF:-1 tvg-id="DharmSandesh.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Dharm Sandesh (576p)
@@ -99,7 +100,7 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 tvg-id="DivyaBhajan.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png" group-title="Religious",Divya Bhajan (1080p)
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Religious",Divyavani TV (576p)
-https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="DukhnivaranPatialaLive.in@HD" tvg-logo="https://papaji.freetvindia.com/media/dukhniwaran.png" group-title="Religious",Dukhnivaran Patiala Live (720p)
 https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Dukhniwaran.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/dukhniwaran.png" group-title="Religious",Dukhniwaran (576p)
@@ -108,8 +109,9 @@ https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8
 https://cdn.pishow.tv/ott/live/349/master.m3u8
 #EXTINF:-1 tvg-id="FGNChannel.in@SD" tvg-logo="https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",FGN Channel (360p)
 https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="GoodnessTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="Religious",Goodness TV (576p)
-https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-id="GoodnessTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Goodness TV (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/704/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png" group-title="Religious",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTVIndia.in@SD" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="Religious",Gospel TV India (576p)
@@ -129,7 +131,7 @@ https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540" group-title="Religious",Hindu Dharmam (1080p)
 https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="Religious",Hope Channel India (576p)
-https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in@Tamil" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="Religious",Hosanna TV (720p)
 https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="HosannaTV.in@Global" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="Religious",Hosanna TV Global
@@ -149,7 +151,7 @@ https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in@SD" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="Religious",Life TV (India) (720p)
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="Religious",Madha TV (576p)
-https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in@SD" tvg-logo="https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Mahaa Bhakti (1080p)
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 #EXTINF:-1 tvg-id="MahimaiTV.in@SD" tvg-logo="https://mahimaitv.com/images/mahimaitamil.png" group-title="Religious",Mahimai TV (576p)
@@ -160,14 +162,15 @@ https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
 https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="MercyTV.in@SD" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="Religious",Mercy TV (India) (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (576p)
-https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",MH One Shraddha (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/344/master.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Religious",Nambikkai TV (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="Religious",Namdhari TV (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" group-title="Religious",Nanaksar Live (720p)
-https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-logo="https://i.imgur.com/nGJv6QR.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Nireekshana TV (576p)
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/706/master.m3u8
@@ -175,16 +178,18 @@ https://fta.ektv.in/live/706/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PadharoSA.in@SD" tvg-logo="https://papaji.freetvindia.com/media/padharosa.png" group-title="Religious",Padharo SA (720p)
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ParasGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png" group-title="Religious",Paras Gold (576p)
-https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" group-title="Religious",Peace of Mind TV (576p)
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ParasGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Paras Gold (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/167/master.m3u8
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Peace of Mind TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/170/master.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Religious",PMC Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Religious",Powervision TV (720p)
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="Religious",PTC Simran (576p)
-https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
 #EXTINF:-1 tvg-id="Ragni.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Ragni.png" group-title="Religious",Ragni (360p)
 https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Saang.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Saang_TV.png" group-title="Religious",Saang (720p)
@@ -194,11 +199,11 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m
 #EXTINF:-1 tvg-id="SadhnaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="Religious",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="" group-title="Religious",Sairam TV (576p)
-https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
 #EXTINF:-1 tvg-id="SalvationTV.in@SD" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" group-title="Religious",Salvation TV (India) (1080p)
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in@SD" tvg-logo="https://i.imgur.com/2z0bDRD.png" group-title="Religious",Sankara TV (576p)
-https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png" group-title="Culture;Religious",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="SanskarUK.in@SD" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Religious",Sanskar UK (1080p)
@@ -224,7 +229,7 @@ https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ShreeSanatanTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/shri_Sanatan_TV.png" group-title="Religious",Shree Sanatan TV (720p)
 http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png" group-title="Religious",Shubhsandesh TV (576p)
-https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
+https://cdn.pishow.tv/ott/live/457/master.m3u8
 #EXTINF:-1 tvg-id="SindhTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Sindth_TV.png" group-title="Religious",Sindh TV (India) (720p)
 https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SohamTV.in@SD" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="Religious",Soham TV (576p)
@@ -247,8 +252,9 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 http://cabletv.valamtv.in/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="ValamTVDayro.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_Dayro.png" group-title="Religious",Valam TV Dayro (576p)
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
-#EXTINF:-1 tvg-id="Vedic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="Religious",Vedic (576p)
-https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Vedic (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/628/master.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV (1080p)
 https://live.villagetv.net/villagetv/hd/index.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" tvg-logo="" group-title="Religious",Zainabia Channel
