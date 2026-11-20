@@ -4,12 +4,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports HD (1080p)
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports",Eurosport (India) HD (1080p)
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" group-title="Sports",Kabaddi 24x7 (720p)
 https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PickleballNow.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png" group-title="Sports",Pickleball Now (720p) [Geo-blocked]
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports",Star Sports 2 Telugu HD (576p)
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8

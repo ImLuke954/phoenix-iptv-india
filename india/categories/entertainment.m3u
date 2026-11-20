@@ -134,10 +134,8 @@ https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India) HD (396p)
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV (India) HD (1080p)
+http://116.90.120.149:8000/play/a136/index.m3u8
 #EXTINF:-1 tvg-id="NammaBangalore.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png" group-title="Entertainment",Namma Bangalore (1080p)
 https://stream.ottlive.co.in/nammatv/index.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.ibb.co/bMZpdbYJ/Nepal-1.png" group-title="Entertainment",Nepal 1 (576p)
@@ -192,7 +190,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="Entertainment",Spondon (1080p)
-https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-id="SRKTV.in@SD" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg" group-title="Entertainment",SRK TV (1080p)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Entertainment",Star Jalsha (1080p) [Geo-blocked]
