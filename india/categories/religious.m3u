@@ -176,6 +176,8 @@ https://cdn.pishow.tv/ott/live/1389/master.m3u8
 https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Nanasar_live.png" group-title="Religious",Nanaksar Live (720p)
 https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
+#EXTINF:-1 tvg-id="NijamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png" group-title="Religious",Nijam TV (1080p)
+https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-logo="https://i.imgur.com/nGJv6QR.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Nireekshana TV (576p)
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/706/master.m3u8
